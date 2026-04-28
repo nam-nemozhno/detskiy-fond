@@ -1,7 +1,6 @@
 body {
     margin-top: 30px;
     background-image: url('https://www.transparenttextures.com/patterns/pinstriped-suit.png');
-    font-family: "MS Sans Serif", Geneva, sans-serif;
 }
 
 a {
@@ -13,7 +12,6 @@ a:hover {
     color: #FFFF00;
 }
 
-/* Никакого современного скругления */
 * {
     border-radius: 0 !important;
 }
@@ -21,12 +19,4 @@ a:hover {
 marquee {
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
-}
-
-table {
-    border-collapse: collapse;
-}
-
-td {
-    border: 1px solid #0000FF;
 }
