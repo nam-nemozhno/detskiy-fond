@@ -13,6 +13,7 @@ a:hover {
     color: #FFFF00;
 }
 
+/* Никакого современного скругления */
 * {
     border-radius: 0 !important;
 }
