@@ -1,0 +1,31 @@
+body {
+    margin-top: 30px;
+    background-image: url('https://www.transparenttextures.com/patterns/pinstriped-suit.png');
+    font-family: "MS Sans Serif", Geneva, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #FFFF00;
+}
+
+* {
+    border-radius: 0 !important;
+}
+
+marquee {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #0000FF;
+}
